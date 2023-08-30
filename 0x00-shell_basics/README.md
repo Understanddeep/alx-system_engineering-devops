@@ -4,3 +4,4 @@ a script that changes the working directory to the user’s home directory
 a script that Display current directory contents in a long format
 A script that Display current directory contents, including hidden files
 Display current directory contents
+a script that creates a directory named my_first_directory
