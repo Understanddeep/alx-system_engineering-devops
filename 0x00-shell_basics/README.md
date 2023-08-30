@@ -11,3 +11,4 @@ a script that deletes a directory
 A script that changes directory to the previous one
 A script that list all the files in differeent directories in a specified order
 A script that tells the file type of a specified file
+a script that creates a link
