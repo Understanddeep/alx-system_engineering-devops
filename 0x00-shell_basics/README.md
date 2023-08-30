@@ -7,3 +7,4 @@ Display current directory contents
 a script that creates a directory named my_first_directory
 a script that moves a file from a directory to another
 a script that deletes a file from a specified directory
+a script that deletes a directory
