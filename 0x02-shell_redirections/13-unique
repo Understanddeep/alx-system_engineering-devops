@@ -1,0 +1,2 @@
+#!/bin/bash
+'today/ln great/ln  tomorrow/ln' < words|uniq
